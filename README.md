@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfscruuz&label=Profile%20views&color=0e75b6&style=flat" alt="lfscruuz" /> </p>
 
-- 🔭 I’m currently working on [D&D Journal](https://github.com/dnd-journal)
+- 🔭 I’m currently working on [LingoMingle](https://github.com/lfscruuz/lingo-mingle)
 
 - 🌱 I’m currently learning **Next.js**
 
