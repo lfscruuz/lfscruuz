@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my own keypad](https://github.com/lfscruuz/keypad-design)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **lfscruz@outlook.com**
 
