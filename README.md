@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfscruuz&label=Profile%20views&color=0e75b6&style=flat" alt="lfscruuz" /> </p>
 
-- 🔭 I’m currently working on [my own keypad](https://github.com/lfscruuz/keypad-design)
+- 🔭 I’m currently working on [BaracataBot](https://github.com/lfscruuz/BaracataBot)
 
 - 🌱 I’m currently learning **PHP**
 
