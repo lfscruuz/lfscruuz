@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [BaracataBot](https://github.com/lfscruuz/BaracataBot)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **lfscruz@outlook.com**
 
