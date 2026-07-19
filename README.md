@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfscruuz&label=Profile%20views&color=0e75b6&style=flat" alt="lfscruuz" /> </p>
 
-- 🔭 I’m currently working on [ChessSharp](https://github.com/lfscruuz/chess-sharp)
+- 🔭 I’m currently working on a [Particle Life Wallpaper](https://github.com/lfscruuz/Particle-Life-Wallpaper)
 
 - 🌱 I’m currently learning **C#**
 
